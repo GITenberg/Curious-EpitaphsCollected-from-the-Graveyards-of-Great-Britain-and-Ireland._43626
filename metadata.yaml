@@ -1,0 +1,30 @@
+_repo: Curious-EpitaphsCollected-from-the-Graveyards-of-Great-Britain-and-Ireland._43626
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43626-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Andrews, William
+    birthdate: 1848
+    deathdate: 1908
+    gutenberg_agent_id: '8969'
+    url: http://www.gutenberg.org/2009/agents/8969
+description: ''
+gutenberg_issued: '2013-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43626'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epitaphs -- Great Britain'
+- !lcc 'PN'
+tableOfContents: Epitaphs on parish clerks and sextons -- Typographical epitaphs --
+  Epitaphs on sportsmen -- Epitaphs on tradesmen -- Bacchanalian epitaphs -- Epitaphs
+  on soldiers and sailors -- Punning epitaphs -- Epitaphs on musicians and actors
+  -- Epitaphs on notable persons -- Miscellaneous epitaphs -- Bibliography of epitaphs.
+title: Curious Epitaphs, Collected from the Graveyards of Great Britain and Ireland.
+url: http://www.gutenberg.org/ebooks/43626
